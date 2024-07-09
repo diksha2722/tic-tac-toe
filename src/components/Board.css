@@ -1,0 +1,14 @@
+.status{
+    margin-bottom: 10px;
+}
+
+.row{
+    display: flex;
+}
+
+.reset{
+    margin-top: 20px;
+    padding: 5px 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
